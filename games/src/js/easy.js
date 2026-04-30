@@ -1,5 +1,5 @@
 const gamedict={
-	times:2,
+	times:60,
 	point:3,
 	date:[170,30,1500,7000]
 };
