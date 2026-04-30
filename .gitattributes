@@ -2,3 +2,6 @@
 *.png binary
 *.jpg binary
 *.pdf binary
+*.js eol=lf
+*.cjs eol=lf
+*.mjs eol=lf

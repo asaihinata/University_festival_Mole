@@ -1,19 +1,19 @@
 {
-"recommendations":[
-"yzhang.markdown-all-in-one",
-"shd101wyy.markdown-preview-enhanced",
-"ZainChen.json",
-"aaron-bond.better-comments",
-"donjayamanne.githistory",
-"donjayamanne.jquerysnippets",
-"eamodio.gitlens",
-"ecmel.vscode-html-css",
-"formulahendry.auto-rename-tag",
-"mhutchie.git-graph",
-"njpwerner.autodocstring",
-"oderwat.indent-rainbow",
-"pranaygp.vscode-css-peek",
-"ritwickdey.LiveServer",
-"xabikos.JavaScriptSnippets"
-]
+    "recommendations": [
+        "yzhang.markdown-all-in-one",
+        "shd101wyy.markdown-preview-enhanced",
+        "ZainChen.json",
+        "aaron-bond.better-comments",
+        "donjayamanne.githistory",
+        "donjayamanne.jquerysnippets",
+        "eamodio.gitlens",
+        "ecmel.vscode-html-css",
+        "formulahendry.auto-rename-tag",
+        "mhutchie.git-graph",
+        "njpwerner.autodocstring",
+        "oderwat.indent-rainbow",
+        "pranaygp.vscode-css-peek",
+        "ritwickdey.LiveServer",
+        "xabikos.JavaScriptSnippets"
+    ]
 }
