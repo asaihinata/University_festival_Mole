@@ -3,6 +3,7 @@
     "search.exclude": {
         "**.md": true,
         "**/**.json": true,
+        "**/**.txt": true,
         "**/.git": true,
         "**/jquery/**": true,
         ".crossnote/**": true,
