@@ -11,3 +11,7 @@
 
 終了時
 <img src="docs/img/game_screen/end_screen.jpg">
+
+## ゲームのリンク
+<a href="games/game.html">ゲームのリンク</a>
+<a href="games/game-min.html">ゲームのリンク(最小化)</a>
