@@ -43,7 +43,7 @@ table td.text{
     margin-top:50px;
 }
 .showtable{
-    background:url(../../data/img/ground.jpg)center center / cover no-repeat fixed;
+    background:url(../data/img/ground.jpg)center center / cover no-repeat fixed;
 }
 .background>div{
     margin:0 auto;
@@ -81,7 +81,7 @@ img{
     width:200px;
 }
 .backgroundmogura{
-    background:url(../../data/img/mogura.png);
+    background:url(../data/img/mogura.png);
     background-position:center;
     background-size:cover;
     background-repeat:no-repeat;
